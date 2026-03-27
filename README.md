@@ -80,3 +80,6 @@ The TIFF alpha mask and ROI GML footprint showed very strong agreement:
 - Valid in ROI only: `3,367`
 
 This supports using alpha-based masking as the primary preprocessing strategy.
+
+CHMv2 minimal: RGB bands 1-3, alpha-derived valid footprint, no CHMv1-specific nodata=255 / 0.6 m standardization unless required by the inference pipeline
+CHMv2 standardized: same shared prepared image used for CHMv1 comparison
