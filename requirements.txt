@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+rasterio
+shapely
+jupyter
+notebook
+tqdm
+boto3
+
+torch
+torchvision
+pytorch_lightning==1.7
+torchmetrics==0.11.4
